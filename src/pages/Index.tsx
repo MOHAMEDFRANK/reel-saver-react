@@ -3,6 +3,7 @@ import React from 'react';
 import Header from '@/components/Header';
 import DownloaderForm from '@/components/DownloaderForm';
 import HowTo from '@/components/HowTo';
+import Features from '@/components/Features';
 
 const Index = () => {
   return (
@@ -14,6 +15,7 @@ const Index = () => {
           <DownloaderForm />
         </section>
         
+        <Features />
         <HowTo />
       </main>
       
