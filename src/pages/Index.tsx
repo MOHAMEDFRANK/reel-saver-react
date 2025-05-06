@@ -4,6 +4,8 @@ import Header from '@/components/Header';
 import DownloaderForm from '@/components/DownloaderForm';
 import HowTo from '@/components/HowTo';
 import Features from '@/components/Features';
+import MobileApp from '@/components/MobileApp';
+import FAQ from '@/components/FAQ';
 
 const Index = () => {
   return (
@@ -17,6 +19,8 @@ const Index = () => {
         
         <Features />
         <HowTo />
+        <MobileApp />
+        <FAQ />
       </main>
       
       <footer className="bg-gray-800 text-white text-center py-6">
