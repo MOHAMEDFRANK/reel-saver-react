@@ -1,3 +1,4 @@
+
 import type { Config } from "tailwindcss";
 
 export default {
@@ -61,7 +62,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				igram: {
+					pink: '#FF3D89',
+					purple: '#6E59A5',
+					blue: '#1651D8',
 				}
+			},
+			backgroundImage: {
+				'gradient-igram': 'linear-gradient(to bottom right, #FF3D89, #6E59A5, #1651D8)',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',

@@ -1,12 +1,28 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+
+import React from 'react';
+import Header from '@/components/Header';
+import DownloaderForm from '@/components/DownloaderForm';
+import HowTo from '@/components/HowTo';
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-gray-600">Start building your amazing project here!</p>
-      </div>
+    <div className="flex flex-col min-h-screen">
+      <Header />
+      
+      <main className="flex-1">
+        <section className="bg-gradient-igram py-16 px-4">
+          <DownloaderForm />
+        </section>
+        
+        <HowTo />
+      </main>
+      
+      <footer className="bg-gray-800 text-white text-center py-6">
+        <p>&copy; {new Date().getFullYear()} iGram - Instagram Downloader</p>
+        <p className="text-sm text-gray-400 mt-2">
+          This tool is for educational purposes only. Please respect Instagram's Terms of Service.
+        </p>
+      </footer>
     </div>
   );
 };

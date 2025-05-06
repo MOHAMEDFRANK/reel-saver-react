@@ -1,0 +1,47 @@
+
+<svg width="28" height="20" viewBox="0 0 28 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="28" height="20" fill="white"/>
+  <rect width="28" height="1.53846" fill="#DC143C"/>
+  <rect y="3.07692" width="28" height="1.53846" fill="#DC143C"/>
+  <rect y="6.15385" width="28" height="1.53846" fill="#DC143C"/>
+  <rect y="9.23077" width="28" height="1.53846" fill="#DC143C"/>
+  <rect y="12.3077" width="28" height="1.53846" fill="#DC143C"/>
+  <rect y="15.3846" width="28" height="1.53846" fill="#DC143C"/>
+  <rect y="18.4615" width="28" height="1.53846" fill="#DC143C"/>
+  <rect width="12" height="10.7692" fill="#191970"/>
+  <circle cx="2" cy="1.84615" r="0.5" fill="white"/>
+  <circle cx="4" cy="1.84615" r="0.5" fill="white"/>
+  <circle cx="6" cy="1.84615" r="0.5" fill="white"/>
+  <circle cx="8" cy="1.84615" r="0.5" fill="white"/>
+  <circle cx="10" cy="1.84615" r="0.5" fill="white"/>
+  <circle cx="3" cy="3.07692" r="0.5" fill="white"/>
+  <circle cx="5" cy="3.07692" r="0.5" fill="white"/>
+  <circle cx="7" cy="3.07692" r="0.5" fill="white"/>
+  <circle cx="9" cy="3.07692" r="0.5" fill="white"/>
+  <circle cx="11" cy="3.07692" r="0.5" fill="white"/>
+  <circle cx="2" cy="4.30769" r="0.5" fill="white"/>
+  <circle cx="4" cy="4.30769" r="0.5" fill="white"/>
+  <circle cx="6" cy="4.30769" r="0.5" fill="white"/>
+  <circle cx="8" cy="4.30769" r="0.5" fill="white"/>
+  <circle cx="10" cy="4.30769" r="0.5" fill="white"/>
+  <circle cx="3" cy="5.53846" r="0.5" fill="white"/>
+  <circle cx="5" cy="5.53846" r="0.5" fill="white"/>
+  <circle cx="7" cy="5.53846" r="0.5" fill="white"/>
+  <circle cx="9" cy="5.53846" r="0.5" fill="white"/>
+  <circle cx="11" cy="5.53846" r="0.5" fill="white"/>
+  <circle cx="2" cy="6.76923" r="0.5" fill="white"/>
+  <circle cx="4" cy="6.76923" r="0.5" fill="white"/>
+  <circle cx="6" cy="6.76923" r="0.5" fill="white"/>
+  <circle cx="8" cy="6.76923" r="0.5" fill="white"/>
+  <circle cx="10" cy="6.76923" r="0.5" fill="white"/>
+  <circle cx="3" cy="8" r="0.5" fill="white"/>
+  <circle cx="5" cy="8" r="0.5" fill="white"/>
+  <circle cx="7" cy="8" r="0.5" fill="white"/>
+  <circle cx="9" cy="8" r="0.5" fill="white"/>
+  <circle cx="11" cy="8" r="0.5" fill="white"/>
+  <circle cx="2" cy="9.23077" r="0.5" fill="white"/>
+  <circle cx="4" cy="9.23077" r="0.5" fill="white"/>
+  <circle cx="6" cy="9.23077" r="0.5" fill="white"/>
+  <circle cx="8" cy="9.23077" r="0.5" fill="white"/>
+  <circle cx="10" cy="9.23077" r="0.5" fill="white"/>
+</svg>
