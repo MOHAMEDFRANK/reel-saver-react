@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
-import { Paste, Download } from 'lucide-react';
+import { ClipboardPaste, Download } from 'lucide-react';
 import TabButton from './TabButton';
 import { Film, Image, History, PlaySquare, Tv } from 'lucide-react';
 import { toast } from 'sonner';
@@ -89,7 +89,7 @@ const DownloaderForm = () => {
             variant="outline" 
             className="whitespace-nowrap"
           >
-            <Paste className="mr-2 h-4 w-4" /> Paste
+            <ClipboardPaste className="mr-2 h-4 w-4" /> Paste
           </Button>
           <Button 
             type="submit" 
