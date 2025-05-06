@@ -1,6 +1,7 @@
 
 import React from 'react';
 import Logo from './Logo';
+import LanguageSelector from './LanguageSelector';
 
 const Header = () => {
   return (
@@ -9,8 +10,7 @@ const Header = () => {
       <nav className="flex items-center gap-4">
         <a href="#" className="font-medium text-gray-800 hover:text-igram-pink">FAQ</a>
         <div className="flex items-center">
-          <img src="/us-flag.svg" alt="Language" className="h-5 w-7" />
-          <span className="ml-1">▼</span>
+          <LanguageSelector />
         </div>
       </nav>
     </header>
